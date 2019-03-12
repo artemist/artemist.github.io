@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#salutatons {
+  border: none;
+}
+
+#salutations td {
+  font-size: 48px;
+  white-space: nowrap;
+}
+
+#salutations td:first-child {
+  text-align: right;
+  padding-right: .25em;
+  color: #ccc;
+}
+
+#container {
+  height: 98vh;
+  max-width: 1000px;
+}
+
+#content {
+  position: relative;
+  top: 50%;
+  transform: perspective(1px) translateY(-50%);
+  float: right;
+  overflow-y: hidden;
+}
+
+#links {
+  float: right;
+}
+
+#links td {
+  font-size: 30pt;
+  padding-right: .5em;
+}
+
+a {
+  text-decoration: none;
+  color: #eee;
+}

@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/artemist
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://artemis.re
+  * I am artemist (https://keybase.io/artemist) on keybase.
+  * I have a public key with fingerprint 5A54 46F4 29DC 3579 9310  7578 95A9 41C6 7072 E392
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012064d16518d2292eff2dd94b3a661d029bcf86c9d987a3fbb69bcb01d61f37dc310a",
+            "fingerprint": "5a5446f429dc35799310757895a941c67072e392",
+            "host": "keybase.io",
+            "key_id": "95a941c67072e392",
+            "kid": "01013b7bcf8db7ffdd1cb9a0995c1b7d8208097d86ea3277fcadc64761a0d306758c0a",
+            "uid": "5fd3f223c47c73297428b227c3fe3619",
+            "username": "artemist"
+        },
+        "service": {
+            "hostname": "artemis.re",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479745985,
+    "expire_in": 157680000,
+    "prev": "d3d7d6647f3b28dfbce73a343d448c1c67522a04f8cb837b6076bc09934d43d2",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtk31QFGUcxw/iXYVEJ3BwCE+o4UXY92f3LKxBhGs6ZEwDxYLdfXaPjeOO21sQ
+MmYQwUAnIB1gKoXRaCaNaU6og5LJPxKJKbMa1OFFtEiJqbQ4hYEDp2eZ/KOZ9p9n
+9jef73e/v+8827LmCUOIX+vZFy+XqVPH/b6dEQz55Kbxg0bBAauMpoPGEmnlkGxQ
+cmmFJQo0mowYTmAMBXGGxllIEBwhyTIBIUcJJM8wOMQIThBllhE5yLGAJ2VBYNBE
+wHDI4DIJoEjiGG9MMcqK3SqpZapi15AtzdMUxcgUwSGABhyHKEADlqN5jsJFBmCA
+kEiOQMJih0tXoHAC75JSFQeaoZfClXj/wz/OjeGkAPRsUACyDCEuChyPcRwt4gKA
+LIGxGIdORuJJAgBZ5KHIUIDBeQySGANoVlzJXb5iR8uQlAmCFCkgApLgAEWwAkEA
+kZQlksE5HXRJqp0vlRDNq5pUqqDY1SlGNK1QREkvVt/kv0SqKiFlmerQHKLDhubF
+mlbmMuk6rapMBw9IQuG/FoWCYoeoRaSokFSX4rAbTTgiRU3RPXEKoFg0x9IpRqmy
+TFGlQkUnaMCwGHr070gVyBKSEEAG7ZonkwLBQlkQJUDyJEVCimJFvU2aIHiMkllR
+YEkgMBhgBBFVR1IQQXrJLslpdyBzFgXlrcjUpVjtvFaO9qkOa/TfGGDwCzEEBfrr
+F8wQFvrk41uXfD7iUdJUjDckdwJvXpvu3mmerj9lvrvtqOFY80emdR0bCkzO0I7+
+m0IBVn92afvhJYs2B+qTZr0/xolbPwjKyAs7NBjvSxuaUjN+iq194U5LV9RJ90hj
+9fCHjtQ1OemO6ZlxTxN7of3kmd+GxlZr8+rNscngLXvmQ+stjTPWc9Sfnq62kkMJ
+Sz3fNIRXmuO/H7gc8fyYEhyqvnGm9v0/ajbZEosS3vnOucEdeHuXu2/zlx2W1OT6
+wZcsfUXX86ebMl+Z13LavLHzp0xz0WtBWlbUxDF8sUBt/7XqbkF+v3REvL+83jZ7
+YKB1tru/Ofa2z/r1vZzd0RmLzvD+vp6Pl+SHq7Tk9wLuZ3W8W3v1zazsOOrtnyWv
+/VraFwOv7TF3ytlhN6aeC+cjExJKF+H4aW9QXk0r+lG7q4u3eKJmKj2Jw7faM011
+zmuuzAcF3tenzl29Exo/+otz4at1Rcfdymcx0cOJUb9f6d88uXv1Vu+tzsSHnphn
+UvzNPyz4btTtfco2SHVyU5H7ixp8D3xv3QtsGdvrzgbnd9WsSsktf9qSn+SwtDXt
+zFlOjUhaPjpq7bp43VIV92r5pJlIaK9tGFnfuaOud1twjMswl77DmPmX0D36eUbu
+xuHo0vyFE76hor7e3IDAZytfdh+2HIm0EXDi0pVBuufSpxmnL5zo/WR/s+fvi49G
+9u0b/wc=
+=fA8m
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/artemist
+
+==================================================================
+

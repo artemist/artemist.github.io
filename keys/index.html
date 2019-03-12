@@ -1,0 +1,70 @@
+<html><head>
+<title>Artemis | about</title>
+<style>
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  margin-bottom: 2em;
+}
+
+#header a {
+  color: #ccc;
+  text-decoration: none;
+  margin-right: 2em;
+}
+
+a {
+  color: yellow;
+}
+
+#header table {
+  border: none;
+  float: right;
+}
+
+</style>
+<meta charset="utf-8">
+</head>
+<body>
+<div id="container">
+<div id="header">
+<a href="/">home</a>
+<table>
+  <td><a href="/blog">blog</a></td>
+  <td><a href="/about">about</a></td>
+</table>
+</div>
+
+I have quite a few keys. The one you probably want is my <a href="/static/key.gpg">communication ECC key</a>.
+
+<h2>Communication Keys</h2>
+These keys are for signing daily messages and communicating with me. I have RSA and ECC variants. Use ECC if possible, but you can't with old gpg versions.
+<ul>
+	<li>ECC: <a href="/static/key.gpg">D217 3817 C3E4 B155 EA8F  FF49 A545 31E0 D321 43ED</a></li>
+	<li>RSA: <a href="/static/key-rsa.gpg">5A54 46F4 29DC 3579 9310  7578 95A9 41C6 7072 E392</a></li>
+</ul>
+
+<h2>Identity Keys</h2>
+These keys are signing-only and kept offline. They sign all of my other keys, and will be used to sign your key, and should be used if you are signing my keys.
+<ul>
+	<li>ECC: <a href="/static/identity-ecc.gpg">923E 5634 1E7B A825 D206  B595 26B0 20F1 4082 EF64</a></li>
+	<li>RSA: <a href="/static/identity-rsa.gpg">29C4 B36C 105F F328 FF03  801A 25B2 0677 37A3 7605</a></li>
+</ul>
+
+<h2>Other Keys</h2>
+I have a few other keys for mainly personal use, but they may end up being useful. The only key accessable to me on my phone is the 2048-bit one on my yubikey.
+<ul>
+	<li>Yubikey: <a href="/static/key-yubikey.gpg">3D2B B230 F9FA F0C5 1832  46DD 4FDC 96F1 61E7 BA8A</a></li>
+</ul>
+</div>
+</body></html>
